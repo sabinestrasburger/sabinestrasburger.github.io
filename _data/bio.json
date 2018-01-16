@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Sabine Strasburger",
+    "name": "Molly Maluhia",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "sabines@hawaii.edu",
-    "phone": "808-721-4809",
-    "website": "https://sabinestrasburger.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2019.",
+    "email": "molly@hawaii.edu",
+    "phone": "808-333-4444",
+    "website": "https://mmaluhia.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "sabinestrasburger",
-        "url": "http://github.com/sabinestrasburger"
+        "username": "mmaluhia",
+        "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "Sabine Strasburger",
-        "url": "https://www.linkedin.com/in/sabine-strasburger-568365128/"
+        "username": "mollymaluhia",
+        "url": "http://linkedin.com/in/changeme"
       },
       {
         "network": "twitter",
