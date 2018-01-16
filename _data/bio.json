@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
     "email": "sabines@hawaii.edu",
-//    "phone": "808-721-4809",
+    "phone": "808-721-4809",
     "website": "https://sabinestrasburger.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2019.",
     "location": {
@@ -25,11 +25,11 @@
         "username": "Sabine Strasburger",
         "url": "https://www.linkedin.com/in/sabine-strasburger-568365128/"
       },
-     // {
-     //   "network": "twitter",
-     //   "username": "mollymal",
-     //   "url": "http://twitter.com/changeme"
-     // },
+      {
+        "network": "twitter",
+        "username": "mollymal",
+        "url": "http://twitter.com/changeme"
+      },
       {
         "network": "instagram",
         "username": "molly",
