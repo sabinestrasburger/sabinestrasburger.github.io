@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Eddie.png
+image: images/StartScreen.png
 title: Hungry Eddie
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
