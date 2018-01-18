@@ -27,21 +27,13 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
+      "name": "Cyber security",
     },
     {
       "name": "data mining",
-      "keywords": [
-      ]
     },
     {
       "name": "artificial intelligence",
-      "keywords": [
-      ]
     }
   ],
   "skills": [
@@ -107,7 +99,7 @@
       "title": "Senior Project",
       "date": "2014",
       "awarder": "Roosevelt High School",
-      "summary": "IncludesL 6-10 page research paper, 25 hours of field work with a mentor, professional portfolio, 7-10 minute PPT in front of a board of faculty"
+      "summary": "Includes 6-10 page research paper, 25 hours of field work with a mentor, professional portfolio, 7-10 minute PPT in front of a board of faculty"
     }
   ],
   "references": [
