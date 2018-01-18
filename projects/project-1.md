@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Eddie.png
 title: Hungry Eddie
-permalink: projects/micromouse
+permalink: projects/hungryeddie
 # All dates must be YYYY-MM-DD format!
 date: 2016-05-02
 labels:
