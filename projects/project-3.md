@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/StarMap.png
+title: Star Compass and the Unit Circle
+permalink: projects/starcompassunitcircle
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2016-05-12
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Trigonometry
+  - Wayfinding
+summary: A poster project I did for my SCI 295 class where I related the hale of the Hawaiian Star Compass to the unit circle.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
