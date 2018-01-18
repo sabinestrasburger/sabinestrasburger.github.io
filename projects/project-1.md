@@ -5,7 +5,7 @@ image: images/Eddie.png
 title: Hungry Eddie
 permalink: projects/hungryeddie
 # All dates must be YYYY-MM-DD format!
-date: 2016-05-02
+date: 2017-05-02
 labels:
   - Java
   - ICS 111
