@@ -18,12 +18,19 @@ One of the semesters I attended Kapi'olani Community College, I took an accelera
 
 On the KCC campus right outside the cafeteria, is a big circular mural on the ground. I always wondered what it meant and the significance of it. The circle was divided into four quadrants that each had a hawaiian name. Each quadrant was divided into seven smaller sections each with their own name. In the middle of the circle was a bird with its wings spread like it was in flight.
 
+<img class="ui image" src="{{ site.baseurl }}/images/KCCStarCompass.png">
+
 It turns out that this strange circular mural represented the star map that many pacific island groups used to navigate when they were sailing on the open ocean. The four quadrants and the section in between the quadrants represented direction:
 
-North - 'Akau             NE - Ko'olau
-South - Hema              SE - Malani
-West  - Komohana          SW - Kona
-East  - Hikina            NW - Ho'olua
+North - 'Akau            
+South - Hema              
+West  - Komohana          
+East  - Hikina            
+
+NE - Ko'olau
+SE - Malani
+SW - Kona
+NW - Ho'olua
 
 The seven sections in each quadrant represented houses or "hale" for each of the stars. The seven houses are identical in each house because stars rise and set in the same house in opposite quadrants. So if a star were to rise in the hale ʻĀina in the NE quadrant, then it would set in ʻĀina in the NW quadrant. Wayfinders (the term used for the person in charge of keeping direction) use this technique to determine their canoe's direction and can memorize more than 200 stars and the houses they rise and set in. In many pacific island nations, there was no such thing as written language, therefore there was no actual star map to visualize. Everything had to be memorized and passed down from generation to generation.
 
