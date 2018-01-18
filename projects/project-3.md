@@ -9,53 +9,24 @@ date: 2016-05-12
 labels:
   - Trigonometry
   - Wayfinding
-summary: A poster project I did for my SCI 295 class where I related the hale of the Hawaiian Star Compass to the unit circle.
+summary: A poster project I did for my SCI 295 class where I related each hale of the Hawaiian Star Compass to the unit circle.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/StarCompassProject.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+One of the semesters I attended Kapi'olani Community College, I took an accelerated math program where I took three math courses in one semester. Part of the program was to also take a STEM Reasearch class called SCI 295. In this class, I was expected to do an individual project where I could apply my math skills acquired during the semester to a topic of interest.
 
-To give you a flavor of the game, here is an excerpt from one run:
+On the KCC campus right outside the cafeteria, is a big circular mural on the ground. I always wondered what it meant and the significance of it. The circle was divided into four quadrants that each had a hawaiian name. Each quadrant was divided into seven smaller sections each with their own name. In the middle of the circle was a bird with its wings spread like it was in flight.
 
-<hr>
+It turns out that this strange circular mural represented the star map that many pacific island groups used to navigate when they were sailing on the open ocean. The four quadrants and the section in between the quadrants represented direction:
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+North - 'Akau             NE - Ko'olau
+South - Hema              SE - Malani
+West  - Komohana          SW - Kona
+East  - Hikina            NW - Ho'olua
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+The seven sections in each quadrant represented houses or "hale" for each of the stars. The seven houses are identical in each house because stars rise and set in the same house in opposite quadrants. So if a star were to rise in the hale ʻĀina in the NE quadrant, then it would set in ʻĀina in the NW quadrant. Wayfinders (the term used for the person in charge of keeping direction) use this technique to determine their canoe's direction and can memorize more than 200 stars and the houses they rise and set in. In many pacific island nations, there was no such thing as written language, therefore there was no actual star map to visualize. Everything had to be memorized and passed down from generation to generation.
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+At the time, I was learning about the unit circle and learning to memorize everything about it. This included the radians, degrees, and coodinates on the unit circles. Then I thought about how I could relate the unit circle to the star compass. Well, the unit circle has a coodinate for each point on it, so one way would be to find the coordinates of the center of each hale if it were on the unit circle.
 
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+Both these circles' sections were not divided in the same way. However, both circles had a center point in the middle of each quadrant so the coordinates for those points were identical. Then, working from there using some trigonometric identities such as the Half-Angle Identity and Pathagorean Identity, I was able to find the center coordinates for each hale.
