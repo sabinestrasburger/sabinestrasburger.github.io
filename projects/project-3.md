@@ -12,7 +12,7 @@ labels:
 summary: A poster project I did for my SCI 295 class where I related the hale of the Hawaiian Star Compass to the unit circle.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/StarCompassProject.png">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
