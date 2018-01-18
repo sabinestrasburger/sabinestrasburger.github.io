@@ -1,17 +1,14 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/Trail.png
+title: Derivation of the Formula for Trail
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2016-12-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Trigonometry
+summary: A small project I did while taking MATH 140 at Kapi'olani Community College. I demonstrate how to find the formula for tail using trigonometry functions.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
