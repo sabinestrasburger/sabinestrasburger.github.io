@@ -27,10 +27,10 @@ South - Hema
 West  - Komohana          
 East  - Hikina            
 
-NE - Ko'olau
-SE - Malani
-SW - Kona
-NW - Ho'olua
+NE    - Ko'olau
+SE    - Malani
+SW    - Kona
+NW    - Ho'olua
 
 The seven sections in each quadrant represented houses or "hale" for each of the stars. The seven houses are identical in each house because stars rise and set in the same house in opposite quadrants. So if a star were to rise in the hale ʻĀina in the NE quadrant, then it would set in ʻĀina in the NW quadrant. Wayfinders (the term used for the person in charge of keeping direction) use this technique to determine their canoe's direction and can memorize more than 200 stars and the houses they rise and set in. In many pacific island nations, there was no such thing as written language, therefore there was no actual star map to visualize. Everything had to be memorized and passed down from generation to generation.
 
