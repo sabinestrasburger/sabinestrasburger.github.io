@@ -13,7 +13,7 @@ labels:
 summary: For my final project for ICS 111, I worked in a group to create a pancake stacking game using Java.
 ---
 
-Hungry Eddie is a game me and a few of my classmates from ICS 111 designed for our final project using the different concepts we learned using Java throughout the semester. We were given a list of requirements that needed to be met in our project, but otherwise was given free range to create whatever we wanted. We decided to create a pancake stacking game that the user would be able to control the character as pancakes fell from the top of the screen. It sounds like a simple enough program, but we added factors to the game that made the implementation a little more complicated than first thought.
+Hungry Eddie is a few of my classmates and I designed for our final project in ISC 111. We were given a list of requirements that needed to be met in our project, but otherwise was given free range to create whatever we wanted. We decided to create a pancake stacking game that the user would be able to control the character as pancakes fell from the top of the screen. It sounds like a simple enough program, but we added factors to the game that made the implementation a little more complicated than first thought.
 
 <img class="ui medium right floated rounded image" src="../images/StartScreen.png">
 
