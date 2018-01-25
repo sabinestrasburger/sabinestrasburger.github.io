@@ -11,7 +11,7 @@ labels:
 summary: A small project I did while taking MATH 140 at Kapi'olani Community College. I demonstrate how to derive the formula for tail using trigonometry functions.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/TrailProject.png">
+<img class="ui large image" src="../images/TrailProject.png">
 
 During my last semester at Kapi'olani Community College, I took Math 140 which was Trignometry and Analytic Geometry. I had an excellent professor who didn't teach math in a typical manner. At the end of the semester, he assigned a final project where we were to use what we learned about trigonometry and apply it to a "real world" problem.
 
