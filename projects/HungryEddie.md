@@ -13,7 +13,7 @@ labels:
 summary: For my final project for ICS 111, I worked in a group to create a pancake stacking game using Java.
 ---
 
-<div class="ui small rounded images">
+<div class="ui image">
   <img class="ui image" src="../images/StartScreen.png">
   <img class="ui image" src="../images/HungryEddieGamePlay.png">
 </div>
