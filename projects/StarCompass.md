@@ -12,7 +12,7 @@ labels:
 summary: A poster project I did for my SCI 295 class where I related each hale of the Hawaiian Star Compass to the unit circle.
 ---
 
-<img class="ui large image" src="{{ site.baseurl }}/images/StarCompassProject.png">
+<img class="ui image" src="{{ site.baseurl }}/images/StarCompassProject.png">
 
 One of the semesters I attended Kapi'olani Community College, I took an accelerated math program where I took three math courses in one semester. Part of the program was to also take a STEM Reasearch class called SCI 295. In this class, I was expected to do an individual project where I could apply my math skills acquired during the semester to a topic of interest.
 
