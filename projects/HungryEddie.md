@@ -37,7 +37,7 @@ Here is some code from the game that we used to control the movement of the red 
 			}
 ```
 
-You can see a samle of the game play [here](https://www.youtube.com/watch?v=Kk029e7Ucdc).
+You can see a sample of the game play [here](https://www.youtube.com/watch?v=Kk029e7Ucdc).
 
 
 
