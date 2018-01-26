@@ -7,8 +7,9 @@ date: 2018-01-19
 labels:
   - JavaScript
   - Java
-  - ICS 314
   - Spring 2018
+  - ICS 314
+  - E09
 ---
 
 ## Java as a Second Language
