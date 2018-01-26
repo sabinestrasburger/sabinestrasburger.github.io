@@ -18,7 +18,7 @@ We were always taught to not be shy in class and to raise our hands if we're con
 
 ## Not This One...
 
-<img class="ui small right floated rounded image" src="../images/ask-stupid-questions.jpg">
+<img class="ui medium right floated rounded image" src="../images/ask-stupid-questions.jpg">
 
 As a "newbie" myself, I appreciate this essay. Since I began the Computer Science program, I've been a frequent user of Stack Overflow and sites of the like. Whenever I had a question about an error in my code or how to approach a problem, I would search and find a number of hits from people who posted questions on the same type of problem. Sometimes, I would see posts from people that would word their question the exact way that I would, but their post would have many downvotes. I couldn't understand why, since I would generally find the answer to the question down below in the comments anyway, so it's not like it was a bad question right? Wrong. Take <a href="https://stackoverflow.com/questions/29832688/how-to-alphabetize-a-list-on-c?noredirect=1&lq=1">this</a> post for example. One of the first things Raymond states to do in his essay if before you ask a question, try to find an answer. In this person's post they say "I have looked everywhere and I am having a hard time," yet in the comment right below, someone says that they easily found an answer by searching a few keywords. They also aren't very concise with their code and fail to explain what is going on in it or what errors they have come across.
 
