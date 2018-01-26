@@ -5,7 +5,6 @@ title: There Is Such Thing as a Stupid Question
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-25
 labels:
-  - How To Ask Questions The Smart Way
   - Stack Overflow
   - Spring 2018
   - ICS 314
