@@ -30,15 +30,15 @@ For this project, I was in charge of creating the graphics of the game. I used p
 Here is a sample of the code from the game that we used to control the movement of the red hearts:
 
 ```js
-	// HEARTS
-	for (int i = 0; i < Heart.size(); i++) {
-		// MOVEMENT OF HEARTS
-		if (Heart.get(i).Heart.getYCenter() < MAX_SCREEN_Y + 150) {
-			Heart.get(i).moveDown();
-		}
-		// USE BOUNDARIES FUNCTION IN Heart.java FOR Heart
-		Heart.get(i).HeartBoundaries(MAX_SCREEN_X);
+// HEARTS
+for (int i = 0; i < Heart.size(); i++) {
+	// MOVEMENT OF HEARTS
+	if (Heart.get(i).Heart.getYCenter() < MAX_SCREEN_Y + 150) {
+		Heart.get(i).moveDown();
 	}
+	// USE BOUNDARIES FUNCTION IN Heart.java FOR Heart
+	Heart.get(i).HeartBoundaries(MAX_SCREEN_X);
+}
 ```
 
 You can see a sample of the game play [here](https://www.youtube.com/watch?v=Kk029e7Ucdc).
