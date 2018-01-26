@@ -7,6 +7,9 @@ date: 2018-01-18
 labels:
   - Software Engineering
   - Learning
+  - Spring 2018
+  - ICS 314
+  - E05
 ---
 
 ## In Retrospect
