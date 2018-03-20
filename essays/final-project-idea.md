@@ -2,7 +2,7 @@
 ---
 layout: essay
 type: essay
-title: "Book Barter"
+title: Book Barter
 date: 2018-03-20
 labels:
   - Software Engineering
