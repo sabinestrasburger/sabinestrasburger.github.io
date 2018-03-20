@@ -3,7 +3,7 @@
 layout: essay
 type: essay
 title: "Book Barter"
-date: 2017-10-19
+date: 2018-03-20
 labels:
   - Software Engineering
   - Meteor
