@@ -8,6 +8,9 @@ labels:
   - Software Engineering
   - Meteor
 ---
+
+Authors: Sabine Strasburger, Ryan Nakata
+
 ## Overview
 
 The problem: The average UH student spends hundreds of dollars each semester on books they'll only need for a few months. 
