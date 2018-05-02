@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: It's Good to Be Cookie Cutter
 # All dates must be YYYY-MM-DD format!
-date: 2018-05-02
+date: 2018-05-01
 labels:
   - Software Engineering
   - Design Patterns
