@@ -18,7 +18,7 @@ Each semester I enroll in a couple different ICS classes, yet I seem to hear the
 
 ## Boxed Caked Is Just as Tasty
 
-<img class="ui small right floated rounded image" src="../images/conetti.png">
+<img class="ui small right floated rounded image" src="../images/confetti.png">
 
 When it comes to baking, it's widely accepted that a baked good made from scratch is the only way to go if you want the tastiest, most mouth-watering treat. However, not everyone has the time, energy, skill, or knowledge to know how to bake everything to perfection. Thus, boxed baked goods were born. Muffins, cupcakes, cakes, brownies, cookies - you name it, it's in a box in your nearest grocery store. It's the most convenient and simplistic way for anyone to be able to bake something. If you wanted to, there even ways you could spice up your boxed baked good like <a href="https://www.allthingsmamma.com/10-tricks-to-make-a-box-cake-mix-taste-homemade/">this</a> article explains you can do with boxed cake. 
 
