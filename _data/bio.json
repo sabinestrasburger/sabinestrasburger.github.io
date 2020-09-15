@@ -7,7 +7,7 @@
     "website": "https://sabinestrasburger.github.io",
     "summary": "I'm a graduate of the Computer Science program at UH Manoa and received my B.S. in Computer Science in the Spring of 2020. I'm currently an RCUH employee for the Children's Healthy Living Program.",
     "location": {
-      "postalCode": "96822",
+      "postalCode": "96826",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -27,14 +27,14 @@
   },
   "interests": [
     {
-      "name": "Internet of Things",
+      "name": "Productivity Applications",
     },
     {
       "name": "Sustainability",
     },
     {
-      "name": "Networking",
-    }
+      "name": "Data Analytics",
+    },
   ],
   "skills": [
     {
@@ -43,7 +43,10 @@
       "keywords": [
         "Java",
         "Javascript",
-        "C"
+        "C",
+        "Assembly",
+        "Python",
+        "Django Framework"
       ]
     },
     {
@@ -51,6 +54,7 @@
       "level": "",
       "keywords": [
         "MacOS",
+        "Windows 10",
         "Git/GitHub",
       ]
     }
@@ -58,21 +62,28 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2019)",
+      "area": "Computer Science (Spring 2020 Dean's List)",
       "studyType": "B.S.",
       "startDate": "2017-01-09",
-      "endDate": "Present",
+      "endDate": "2020-05-15",
       "gpa": "",
       "courses": [
+        "ICS 491 - Secure Development",
+        "ICS 483 - Computer Vision",
+        "ICS 428 - Digital Forensics",
+        "ICS 427 - Software Quality Assurance",
+        "ICS 414 - Software Engineering II",
+        "ICS 332 - Operating Systems",
+        "ICS 321 - Database Systems I",
         "ICS 314 - Software Engineering I",
+        "ICS 313 - Programming Language Theory",
+        "ICS 312 - Machine-Level and Systems Programming",
         "ICS 311 - Algorithms",
         "ICS 241 - Discrete Math for Computer Science II",
         "ICS 212 - Program Structure",
         "ICS 211 - Introduction to Computer Science II",
         "ICS 141 - Discrete Math for Computer Science I",
         "ICS 111 - Introduction to Computer Science I",
-        "MATH 241 - Calculus II",
-        "MATH 141 - Calculus I"
       ]
     },
     {
@@ -98,10 +109,16 @@
   ],
   "volunteer": [
     {
+      "organization": "",
+      "position": "Volunteer",
+      "startDate": "2020-02-22",
+      "summary": "Cleaned up invasive species at the He'eia Fish Pond."
+    },
+    {
       "organization": "Sports Day for the Special Olympics at Roosevelt High School",
       "position": "Volunteer",
       "startDate": "2014-01-16",
-      "summary": "Sports station volunteer"
+      "summary": "Sports station volunteer."
     }
   ],
   "awards": [
