@@ -99,11 +99,19 @@
   ],
   "work": [
     {
+      "company": "Children's Healthy Living Center (CHL)",
+      "position": "IT Assistant",
+      "website": "https://www.chl-pacific.org/",
+      "startDate": "2018-12-14",
+      "endDate": "Present",
+      "summary": "Provides hardware, software, and OS support such as software installation, networking, data analysis, and data management.",
+    },
+    {
       "company": "Kapi'olani Community College Lama Library",
       "position": "Library Services Representative",
       "website": "http://library.kapiolani.hawaii.edu/",
       "startDate": "2016-11-21",
-      "endDate": "Present",
+      "endDate": "2019-06-30",
       "summary": "Assisting patrons with daily operational needs of the library",
     }
   ],
